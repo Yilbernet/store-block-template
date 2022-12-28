@@ -1,6 +1,6 @@
 import React from 'react';
 
-const example = () => {
+const Example = () => {
   return (
     <div>
         Testing Custom Block
@@ -8,4 +8,4 @@ const example = () => {
   )
 }
 
-export default example;
+export default Example;

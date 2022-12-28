@@ -8,7 +8,7 @@
                     "type": "array",
                     "title": "formas De Pago",
                     "items": {
-                        
+                        "$ref": "app:epartner.custom-block#/definitions/Stamp"
                     }
                 }
             }

@@ -1,3 +1,3 @@
-import { paymentStamps } from "./components/paymentStamps/paymentStamps";
+import { PaymentStamps } from "./components/paymentStamps/PaymentStamps";
 
-export default paymentStamps;
+export default PaymentStamps;

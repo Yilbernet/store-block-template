@@ -1,9 +1,17 @@
 import React from 'react';
 
-const paymentStamps = () => {
+const PaymentStamps = () => {
   return (
     <div>payment Stamps</div>
   )
 }
 
-export { paymentStamps }
+// interface PaymentStampsProps {
+//     items: any[]
+// }
+
+// PaymentStamps.schema {
+//     title: "custom payment stamps"
+// }
+
+export { PaymentStamps }

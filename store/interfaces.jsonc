@@ -1,0 +1,14 @@
+{
+  "countdown": {
+    "component": "Countdown"
+  },
+  "example": {
+    "component": "Example"
+  },
+  "payment-stamps": {
+    "component": "paymentStamps",
+    "content": {
+      // "$ref": "app:epartner.custom-block#/definitions/paymentStamps"
+    }
+  }
+}
