@@ -21,7 +21,7 @@
                         "stampSrc": {
                             "title": "Upload Image Stamp",
                             "description": "Puedes subir tu imagen aqui",
-                            "$ref": "app:vtex.native-types#/definitions/url",
+                            // "$ref": "app:vtex.native-types#/definitions/url",
                             "default": "",
                             "widget": {
                                 "ui:widget": "image-uploader"
