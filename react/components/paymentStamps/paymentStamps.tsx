@@ -1,17 +1,21 @@
-import React from 'react';
+// import React from 'react';
+// import type { StampProps } from './Stamp';
 
-const PaymentStamps = () => {
-  return (
-    <div>payment Stamps</div>
-  )
-}
+// const PaymentStamps: StorefrontComponent<StampProps> = ({items}) => {
+
+// console.log('items',items);
+
+//   return (
+//     <div>payment Stamps</div>
+//   )
+// }
 
 // interface PaymentStampsProps {
-//     items: any[]
+//     items: StampProps[]
 // }
 
 // PaymentStamps.schema {
 //     title: "custom payment stamps"
 // }
 
-export { PaymentStamps }
+// export { PaymentStamps }
