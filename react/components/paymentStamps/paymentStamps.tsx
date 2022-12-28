@@ -6,4 +6,4 @@ const paymentStamps = () => {
   )
 }
 
-export default paymentStamps;
+export { paymentStamps }

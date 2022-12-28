@@ -4,5 +4,8 @@
   },
   "example": {
     "component": "example"
+  },
+  "payment-stamps": {
+    "component": "paymentStamps"
   }
 }
