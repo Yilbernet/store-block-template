@@ -16,7 +16,7 @@
 // }
 
 // export interface StampProps {
-//     StampProps: StampProps[]
+//     StampProps: any[]
 // }
 
 // export { Stamp };

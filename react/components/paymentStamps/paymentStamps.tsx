@@ -6,7 +6,12 @@
 // console.log('items',items);
 
 //   return (
-//     <div>payment Stamps</div>
+//     <div>
+            // <h5>formas de pagos</h5>
+            // {
+            //     items && items.map((stampProps, idx) => <stamp><stamp/>)
+            // }
+//     </div>
 //   )
 // }
 
