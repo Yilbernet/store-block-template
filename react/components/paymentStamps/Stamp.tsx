@@ -1,22 +1,22 @@
-// import React from 'react';
+import React from 'react';
 
-// const Stamp:StorefrontComponent<StampProps> = ({ StampProps }) => {
+const Stamp:StorefrontComponent<StampProps> = () => {
 
-//     console.log(StampProps);
+    // console.log(StampProps);
 
-//   return (
-//     <div>
-//         <img src="" alt="" />
-//     </div>
-//   )
-// }
+  return (
+    <div>
+        <img src="" alt="" />
+    </div>
+  )
+}
 
-// Stamp.schema = {
-//     title: "Stamp"
-// }
+Stamp.schema = {
+    title: "Stamp"
+}
 
-// export interface StampProps {
-//     StampProps: any[]
-// }
+export interface StampProps {
+    StampProps: any[]
+}
 
-// export { Stamp };
+export { Stamp };
