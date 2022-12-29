@@ -3,7 +3,7 @@ import React from 'react';
 const Example = () => {
   return (
     <div>
-        Testing Custom Block
+        Testing Custom Block 123
     </div>
   )
 }
